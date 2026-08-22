@@ -62,9 +62,6 @@ const fredy = {
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HEKRON00&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HEKRON00&theme=react-dark&hide_border=true" width="95%"/>
-</p>
 
 <br/>
 
