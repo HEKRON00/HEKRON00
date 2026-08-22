@@ -42,8 +42,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HEKRON00&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEKRON00&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HEKRON00&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HEKRON00&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
 ### 📫 Contacto
 
 <p align="center">
-  📧 <a href="mailto:fgonzalesgomez11@gmail.com">fgonzalesgomez11@gmail.com</a> &nbsp;|&nbsp; 📱 +504 9448-1947
+  📧 <a href="mailto:fgonzalesgomez11@gmail.com">fgonzalesgomez11@gmail.com</a>
 </p>
 
 <p align="center">
