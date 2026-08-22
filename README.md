@@ -68,6 +68,83 @@ const fredy = {
 ## ⏱️ Mi actividad de código (WakaTime)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-0-blue?style=flat)
+
+**🐱 Mis datos de GitHub** 
+
+> 📦 12.3 kB Almacenamiento de GitHub utilizado 
+ > 
+> 🏆 74 Contribuciones durante el año 2026
+ > 
+> 🚫 No abierto para contratación
+ > 
+> 📜 4 Repositorios Públicos 
+ > 
+> 🔑 2 Repositorios Privados 
+ > 
+**Soy diurno 🐤** 
+
+```text
+🌞 Mañana                 196 commits         ███████████░░░░░░░░░░░░░░   42.52 % 
+🌆 Día                    252 commits         ██████████████░░░░░░░░░░░   54.66 % 
+🌃 Tarde                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+🌙 Noche                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+```
+📅 **Soy más productivo los Martes** 
+
+```text
+Lunes                    101 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Martes                   146 commits         ████████░░░░░░░░░░░░░░░░░   31.67 % 
+Miércoles                93 commits          █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Jueves                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Viernes                  63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Sábado                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Domingo                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+```
+
+
+📊 **Esta semana me dediqué a** 
+
+```text
+🕑︎ Zona Horaria: America/Tegucigalpa
+
+💬 Lenguajes: 
+Sin actividad registrada esta semana
+
+🔥 Editores: 
+Sin actividad registrada esta semana
+
+🐱‍💻 Proyectos: 
+Sin actividad registrada esta semana
+
+💻 Sistema Operativo: 
+Sin actividad registrada esta semana
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**Programo principalmente en JavaScript** 
+
+```text
+JavaScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+
+
+
+**Cronología**
+
+![Lines of Code chart](https://raw.githubusercontent.com/HEKRON00/HEKRON00/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/08/2026 17:58:26 UTC
 <!--END_SECTION:waka-->
 
 <br/>
