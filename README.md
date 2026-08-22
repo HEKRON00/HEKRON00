@@ -68,6 +68,13 @@ const fredy = {
 
 <br/>
 
+## ⏱️ Mi actividad de código (WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E9EF7&height=120&section=footer" width="100%"/>
 
 <p align="center">📧 <a href="mailto:fgonzalesgomez11@gmail.com">fgonzalesgomez11@gmail.com</a></p>
