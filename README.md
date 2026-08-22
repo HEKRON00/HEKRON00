@@ -55,15 +55,6 @@ const fredy = {
 
 <br/>
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HEKRON00&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HEKRON00&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
-<br/>
 
 ## ⏱️ Mi actividad de código (WakaTime)
 
