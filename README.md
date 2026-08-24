@@ -59,7 +59,7 @@ const fredy = {
 ## ⏱️ Mi actividad de código (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2045%20mins-blue?style=flat)
 
 **📊 Esta semana me dediqué a**
 
@@ -67,25 +67,25 @@ const fredy = {
 🕑︎ Zona Horaria: America/Tegucigalpa
 
 💬 Lenguajes:
-Rust                 13 mins         ██████░░░░░░░░░░░░░░░░░░░   23.91 %
-Markdown             12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.79 %
-Dart                 9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-INI                  9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
-TypeScript           7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 %
-Prisma               2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Markdown             25 mins         ██████░░░░░░░░░░░░░░░░░░░   24.19 %
+Rust                 17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.70 %
+TypeScript           17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
+Other                15 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Dart                 14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 %
+INI                  9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
 
 🔥 Editores:
-Claude Code          49 mins         █████████████████████░░░░   84.48 %
-VS Code              9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+Claude Code          1 hrs 35 mins   ███████████████████████░░   90.48 %
+VS Code              10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 %
 
 🐱‍💻 Proyectos:
-MENSAJERIA           58 mins         █████████████████████████   100.00 %
+MENSAJERIA           1 hrs 45 mins   █████████████████████████   100.00 %
 
 💻 Sistema Operativo:
-Windows              58 mins         █████████████████████████   100.00 %
+Windows              1 hrs 45 mins   █████████████████████████   100.00 %
 ```
 
-*Total: 58 mins esta semana — actualizado automáticamente*
+*Total: 1 hr 45 mins esta semana — actualizado automáticamente*
 
 <!--END_SECTION:waka-->
 
