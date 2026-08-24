@@ -11,6 +11,9 @@ jobs:
     name: Actualizar README con estadísticas de WakaTime
     runs-on: ubuntu-latest
     steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
       - name: Generar estadísticas y actualizar README
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
