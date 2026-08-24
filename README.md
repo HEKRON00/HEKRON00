@@ -59,77 +59,34 @@ const fredy = {
 ## ⏱️ Mi actividad de código (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-0-blue)
-
-**🐱 Mis datos de GitHub** 
-
-> 📦 12.4 kB Almacenamiento de GitHub utilizado 
- > 
-> 🏆 76 Contribuciones durante el año 2026
- > 
-> 🚫 No abierto para contratación
- > 
-> 📜 4 Repositorios Públicos 
- > 
-> 🔑 2 Repositorios Privados 
- > 
-**Soy diurno 🐤** 
-
-```text
-🌞 Mañana                 196 commits         ███████████░░░░░░░░░░░░░░   42.33 % 
-🌆 Día                    254 commits         ██████████████░░░░░░░░░░░   54.86 % 
-🌃 Tarde                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-🌙 Noche                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-```
-📅 **Soy más productivo los Martes** 
-
-```text
-Lunes                    101 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Martes                   146 commits         ████████░░░░░░░░░░░░░░░░░   31.53 % 
-Miércoles                93 commits          █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Jueves                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Viernes                  63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Sábado                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Domingo                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-```
-
-
-📊 **Esta semana me dediqué a** 
+**📊 Esta semana me dediqué a**
 
 ```text
 🕑︎ Zona Horaria: America/Tegucigalpa
 
-💬 Lenguajes: 
-Sin actividad registrada esta semana
+💬 Lenguajes:
+Rust                 13 mins         ██████░░░░░░░░░░░░░░░░░░░   23.91 %
+Markdown             12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.79 %
+Dart                 9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+INI                  9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+TypeScript           7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 %
+Prisma               2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
 
-🔥 Editores: 
-Sin actividad registrada esta semana
+🔥 Editores:
+Claude Code          49 mins         █████████████████████░░░░   84.48 %
+VS Code              9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
 
-🐱‍💻 Proyectos: 
-Sin actividad registrada esta semana
+🐱‍💻 Proyectos:
+MENSAJERIA           58 mins         █████████████████████████   100.00 %
 
-💻 Sistema Operativo: 
-Sin actividad registrada esta semana
+💻 Sistema Operativo:
+Windows              58 mins         █████████████████████████   100.00 %
 ```
 
-**Programo principalmente en JavaScript** 
+*Total: 58 mins esta semana — actualizado automáticamente*
 
-```text
-JavaScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-HTML                     1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-```
-
-
-
-**Cronología**
-
-![Lines of Code chart](https://raw.githubusercontent.com/HEKRON00/HEKRON00/main/assets/bar_graph.png)
-
-
- Last Updated on 23/08/2026 02:06:47 UTC
 <!--END_SECTION:waka-->
 
 <br/>
