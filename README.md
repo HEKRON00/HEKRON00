@@ -59,7 +59,7 @@ const fredy = {
 ## ⏱️ Mi actividad de código (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2031%20mins-blue?style=flat)
 
 **📊 Esta semana me dediqué a**
 
@@ -67,25 +67,27 @@ const fredy = {
 🕑︎ Zona Horaria: America/Tegucigalpa
 
 💬 Lenguajes:
-Dart                 4 hrs 41 mins   ██████████░░░░░░░░░░░░░░░   39.29 %
-Other                2 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   20.89 %
-Markdown             2 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   17.77 %
-TypeScript           56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
-Text                 33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Rust                 22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Dart                 4 hrs 41 mins   ████████░░░░░░░░░░░░░░░░░   32.34 %
+Other                3 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   21.57 %
+Markdown             2 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   19.32 %
+TypeScript           2 hrs 1 mins    ███░░░░░░░░░░░░░░░░░░░░░░   13.96 %
+Text                 33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Rust                 22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 
 🔥 Editores:
-Claude Code          11 hrs 47 mins  █████████████████████████   98.60 %
-VS Code              10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Claude Code          14 hrs 21 mins  █████████████████████████   98.85 %
+VS Code              10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 
 🐱‍💻 Proyectos:
-MENSAJERIA           11 hrs 57 mins  █████████████████████████   100.00 %
+MENSAJERIA           11 hrs 57 mins  █████████████████████░░░░   82.30 %
+webfactory           2 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+Fredy                9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 
 💻 Sistema Operativo:
-Windows              11 hrs 57 mins  █████████████████████████   100.00 %
+Windows              14 hrs 31 mins  █████████████████████████   100.00 %
 ```
 
-*Total: 11 hrs 57 mins esta semana — actualizado automáticamente*
+*Total: 14 hrs 31 mins esta semana — actualizado automáticamente*
 
 <!--END_SECTION:waka-->
 
