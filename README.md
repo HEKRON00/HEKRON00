@@ -59,7 +59,7 @@ const fredy = {
 ## ⏱️ Mi actividad de código (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2034%20mins-blue?style=flat)
 
 **📊 Esta semana me dediqué a**
 
@@ -67,26 +67,24 @@ const fredy = {
 🕑︎ Zona Horaria: America/Tegucigalpa
 
 💬 Lenguajes:
-Dart                 1 hrs 44 mins   █████████░░░░░░░░░░░░░░░░   35.20 %
-TypeScript           1 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   21.95 %
-Markdown             1 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   21.38 %
-Other                38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 %
-Text                 11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-SQL                  9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+TypeScript           1 hrs 4 mins    ███████████░░░░░░░░░░░░░░   42.06 %
+Markdown             40 mins         ███████░░░░░░░░░░░░░░░░░░   26.56 %
+Other                38 mins         ██████░░░░░░░░░░░░░░░░░░░   24.72 %
+SQL                  9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+HTML                 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 
 🔥 Editores:
-Claude Code          4 hrs 55 mins   █████████████████████████   100.00 %
+Claude Code          2 hrs 34 mins   █████████████████████████   100.00 %
 
 🐱‍💻 Proyectos:
-webfactory           2 hrs 25 mins   ████████████░░░░░░░░░░░░░   49.08 %
-MENSAJERIA           2 hrs 21 mins   ████████████░░░░░░░░░░░░░   47.82 %
-Fredy                9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+webfactory           2 hrs 25 mins   ████████████████████████░   94.06 %
+Fredy                9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
 
 💻 Sistema Operativo:
-Windows              4 hrs 55 mins   █████████████████████████   100.00 %
+Windows              2 hrs 34 mins   █████████████████████████   100.00 %
 ```
 
-*Total: 4 hrs 55 mins esta semana — actualizado automáticamente*
+*Total: 2 hrs 34 mins esta semana — actualizado automáticamente*
 
 <!--END_SECTION:waka-->
 
