@@ -59,7 +59,7 @@ const fredy = {
 ## ⏱️ Mi actividad de código (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
 **📊 Esta semana me dediqué a**
 
@@ -67,24 +67,19 @@ const fredy = {
 🕑︎ Zona Horaria: America/Tegucigalpa
 
 💬 Lenguajes:
-TypeScript           1 hrs 4 mins    ███████████░░░░░░░░░░░░░░   42.06 %
-Markdown             40 mins         ███████░░░░░░░░░░░░░░░░░░   26.56 %
-Other                38 mins         ██████░░░░░░░░░░░░░░░░░░░   24.72 %
-SQL                  9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-HTML                 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Sin actividad registrada esta semana
 
 🔥 Editores:
-Claude Code          2 hrs 34 mins   █████████████████████████   100.00 %
+Sin actividad registrada esta semana
 
 🐱‍💻 Proyectos:
-webfactory           2 hrs 25 mins   ████████████████████████░   94.06 %
-Fredy                9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Sin actividad registrada esta semana
 
 💻 Sistema Operativo:
-Windows              2 hrs 34 mins   █████████████████████████   100.00 %
+Sin actividad registrada esta semana
 ```
 
-*Total: 2 hrs 34 mins esta semana — actualizado automáticamente*
+*Total: 0 secs esta semana — actualizado automáticamente*
 
 <!--END_SECTION:waka-->
 
